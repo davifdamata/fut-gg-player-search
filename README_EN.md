@@ -38,6 +38,7 @@ python main.py
 Screenshots
 
 Below is a preview of the application interface:
+![Main Menu](Images/main-menu.png)
 
 
 
