@@ -25,6 +25,7 @@ Instalação
 Clone o repositório:
 
 git clone <https://github.com/davifdamata/fut-gg-player-search>
+
 cd fut-gg-player-search
 
 Instale as dependências necessárias:
