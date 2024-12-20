@@ -1,6 +1,6 @@
-FIFA Player Search App
+EA FC Player Search App
 
-A modern Python application for searching FIFA players with a clean and attractive graphical interface built using tkinter. This app interacts with the FIFA API to provide real-time player details, such as name, version, overall rating, and pricing.
+A modern Python application for searching EA FC players with a clean and attractive graphical interface built using tkinter. This app interacts with the fut.gg API to provide real-time player details, such as name, version, overall rating, and pricing.
 
 Features
 
